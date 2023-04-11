@@ -11,3 +11,6 @@ if 'APP_ENV' in environ:
   APP_ENV = environ['APP_ENV']
 else:
   APP_ENV = "undefined"
+
+GOOGLE_CLIENT_ID  = environ['GOOGLE_CLIENT_ID']
+GOOGLE_CLIENT_SEC = environ['GOOGLE_CLIENT_SEC']
