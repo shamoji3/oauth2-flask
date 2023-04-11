@@ -1,6 +1,7 @@
 ### Environment ###
 .vscode/
 .space/
+.env
 Spacefile
 ### Python ###
 # Byte-compiled / optimized / DLL files
